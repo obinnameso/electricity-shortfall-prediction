@@ -28,7 +28,7 @@ pip install -U matplotlib numpy pandas scikit-learn <br>
 We were able to visualize the three hourly shortfall by days of the week from the dataset as seen in the graph below: 
 
 <p align = 'center'>
-<img width="700" height="400" src = 'https://github.com/obinnameso/electricity-shortfall-prediction/blob/main/imgs/shortfall_by_day.png?raw=true'>
+<img width="700" height="500" src = 'https://github.com/obinnameso/electricity-shortfall-prediction/blob/main/imgs/shortfall_by_day.png?raw=true'>
 </p>
 
 We used a regression model to make predictions using different models and RSME score and the R-squared score as an evaluation metrics, the random forest model performmed better and was used to make the final prediction of the given dataset. The model was deployed using flask on an EC2 instance. <br> 
