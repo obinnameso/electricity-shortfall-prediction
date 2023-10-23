@@ -1,4 +1,4 @@
-# Predicting Daily Shortfall Of Electricity Generated In Spain 
+# Predicting Shortfall Of Electricity Generated In Spain 
 
 ## Project Description
 
